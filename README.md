@@ -1,5 +1,21 @@
-# soundial-v1
-A modern 3D printed metronome for drummers—designed to sit on a table or mount anywhere on a kit.
+# Soundial 1.0
+
+**Soundial** is a modern 3D-printed metronome for drummers, featuring both audible and visual tempo cues. It’s designed to sit on a table or mount anywhere on a drum kit using a standard 1/4-20 clamp.
+
+### Features
+- Audible metronome click + LED ring for visual cues  
+- Tabletop or clamp-mountable design  
+- Compact and rugged — made for drummers, by a drummer  
+- 3D-printable enclosure and open files for DIYers  
+
+### What's in this repo
+- `/STL` – 3D-printable files for the enclosure  
+- `/Firmware` – Arduino code for the microcontroller  
+- `/BOM.csv` – Bill of Materials with links  
+- `/Instructions.pdf` – Assembly and usage guide  
+
+Want to build it yourself? Files are free for personal use.  
+Prefer a ready-to-go unit? Assembled versions coming soon at [accidentalmachines.com](https://accidentalmachines.com)
 
 ## License
 
