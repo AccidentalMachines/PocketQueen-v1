@@ -17,6 +17,10 @@
 Want to build it yourself? Files are free for personal use.  
 Prefer a ready-to-go unit? Assembled versions coming soon at [accidentalmachines.com](https://accidentalmachines.com)
 
+### Firmware
+The full firmware is available for purchase via [accidentalmachines.com](https://accidentalmachines.com).  
+Includes all LED, sound, and timing functionality for v1 of Soundial.
+
 ## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
