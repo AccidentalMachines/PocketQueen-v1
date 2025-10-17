@@ -23,7 +23,7 @@
 ### 🔧 Build Your Own
 Want to build Pocket Queen yourself?
 
-- 🛠 [Hardware & Assembly Guide](https://github.com/AccidentalMachines/PocketQueen-v1)
+- 🛠 [Hardware & Assembly Guide](https://github.com/AccidentalMachines/PocketQueen-v1/blob/main/Instructions.md)
 - 💾 [Buy the Firmware on Gumroad](https://kilbacak.gumroad.com/l/fsclpy)
 - 📘 [More Info at accidentalmachines.com](https://accidentalmachines.com)
 
