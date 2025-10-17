@@ -1,6 +1,6 @@
-# Soundial v1 – Assembly Instructions
+# Pocket Queen v1 – Assembly Instructions
 
-These instructions will walk you through assembling your own Soundial v1 metronome.
+These instructions will walk you through assembling your own Pocket Queen v1 metronome.
 
 ---
 
@@ -8,10 +8,10 @@ These instructions will walk you through assembling your own Soundial v1 metrono
 
 Print the following STL files using your preferred 3D printer (tested on FlashForge Adventurer 4):
 
-- `Soundial-v1-Body.stl`
-- `Soundial-v1-Button.stl`
-- `Soundial-v1-Diffuser.stl`
-- `Soundial-v1-Face-Cover.stl`
+- `PocketQueen-v1-Body.stl`
+- `PocketQueen-v1-Button.stl`
+- `PocketQueen-v1-Diffuser.stl`
+- `PocketQueen-v1-Face-Cover.stl`
 
 All files are optimized for standard FDM printing and should work on most hobbyist printers.
 

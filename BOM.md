@@ -1,4 +1,4 @@
-## Bill of Materials – Soundial v1
+## Bill of Materials – Pocket Queen v1
 
 | Item | Description | Quantity | Source/Link | Notes |
 |------|-------------|----------|-------------|-------|
