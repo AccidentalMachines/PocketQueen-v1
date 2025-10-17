@@ -9,6 +9,6 @@
 | Internal Inserts | M3×8×5mm Threaded Inserts (Ktehloy) | 2 | [Link](https://www.amazon.com/dp/B0CLKDPN65) | Used for internal part fastening |
 | Internal Inserts | M2.5×2.5×3.5mm Threaded Inserts | 12 | [Link](https://www.amazon.com/dp/B0CLKDPN65) | Used for smaller structural connections |
 | Fasteners | Assorted screws for M2.5 & M3 inserts | Varies | [Link](https://www.amazon.com/dp/B075C6C4YR) | To mate with threaded inserts |
-| Power Switch | Chanzon SPDT Mini Micro Slide Switch (SS12F15) | 1 |  | Used for on/off power control |
+| Power Switch | Chanzon SPDT Mini Micro Slide Switch (SS12F15) | 1 | [Link](https://www.amazon.com/dp/B09R3Y6MMN/) | Used for on/off power control |
 | Ring Terminals | TE 160344-2 Ring Terminal, M3, 15-20AWG | 4 | [Link](https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/160344-2/2285572) | For clean, secure power and signal connections |
 | Wiring Kit | Fermerry 20 AWG Silicone Hookup Wire (6 colors, 50ft each) | 1 set | [Link](https://www.amazon.com/dp/B08D6TNJHS) | Flexible tinned copper wire for internal wiring |
