@@ -1,6 +1,6 @@
-# Soundial 1.0
+# Pocket Queen 1.0
 
-**Soundial** is a modern 3D-printed metronome for drummers, featuring both audible and visual tempo cues. It’s designed to sit on a table or mount anywhere on a drum kit using a standard 1/4-20 clamp.
+**Pocket Queen** is a modern 3D-printed metronome for drummers, featuring both audible and visual tempo cues. It’s designed to sit on a table or mount anywhere on a drum kit using a standard 1/4-20 clamp.
 
 ---
 
@@ -21,14 +21,13 @@
 ---
 
 ### 🔧 Build Your Own
-Want to build Soundial yourself?
+Want to build Pocket Queen yourself?
 
-- 🛠 [Hardware & Assembly Guide](https://github.com/yourusername/soundial-v1)
+- 🛠 [Hardware & Assembly Guide](https://github.com/AccidentalMachines/PocketQueen-v1)
 - 💾 [Buy the Firmware on Gumroad](https://kilbacak.gumroad.com/l/fsclpy)
 - 📘 [More Info at accidentalmachines.com](https://accidentalmachines.com)
 
 Files are free for personal use.  
-Prefer a ready-to-go unit? Assembled versions coming soon at [accidentalmachines.com](https://accidentalmachines.com)
 
 ---
 
