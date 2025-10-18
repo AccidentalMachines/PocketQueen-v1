@@ -14,7 +14,7 @@
 
 ### What's in this repo
 - `/STL` – 3D-printable files for the enclosure  
-- `/Firmware` – [Available for purchase](https://kilbacak.gumroad.com/l/fsclpy)  
+- `/Firmware` – Firmware designed for the Adafruit Circuit Playground Bluefruit
 - `/BOM.csv` – Bill of Materials with links  
 - `/Instructions.pdf` – Assembly and usage guide  
 
