@@ -37,7 +37,7 @@ Use a soldering iron or insert-setting tool to heat-set the threaded inserts int
 
 ## ⚡ Step 4: Final Assembly
 
-1. Mount the **Circuit Playground** inside the main body using screws.
+1. Mount the **Circuit Playground Bluefruit** inside the main body using screws.
 2. Connect the **OLED display** and secure it behind the face cover.
 3. Plug in the **battery** via the JST connector.
 4. Fit all parts together and secure with screws through the pre-threaded inserts.
@@ -47,7 +47,7 @@ Use a soldering iron or insert-setting tool to heat-set the threaded inserts int
 
 ## ✅ Final Check
 
-- Flash the firmware from this repo to the Circuit Playground.
+- Flash the firmware from this repo to the Circuit Playground Bluefruit.
 - Toggle the switch and confirm LED ring + click sound.
 - Secure with clamp or place on table — you're ready to drum.
 
