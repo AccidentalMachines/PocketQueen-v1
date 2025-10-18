@@ -9,8 +9,7 @@ Pocket Queen v1.0 is still a work in progress.
 The current hardware design **does not include an onboard charging circuit** for the lithium-ion battery.  
 To recharge the battery, the unit must be **disassembled and the battery removed** for charging with an **Adafruit Micro-Lipo Charger for LiPoly batteries (USB Type-C)**.  
 
-> Note: The Micro-USB port on the Pocket Queen does **not** recharge the battery — it only provides USB data/power to the Adafruit Circuit Playground Bluefruit board.  
-> This critical design limitation will be **addressed in the next hardware revision.**
+> Note: The Micro-USB port on the Pocket Queen does **not** recharge the battery — it only provides USB data/power to the Adafruit Circuit Playground Bluefruit board.  This critical design limitation **will be addressed in the next hardware revision.**
 
 ---
 
